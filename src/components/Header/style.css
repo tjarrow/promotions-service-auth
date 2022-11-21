@@ -1,0 +1,24 @@
+.rowLogo {
+    background: #f59d0a;
+    padding: 4rem;
+}
+
+.programLogo {
+    display: block;
+    height: 3rem;
+    margin: 0 auto;
+}
+
+.loginHeader, .cadastroHeader {
+    padding-top: 2rem;
+    font-size: 3.5rem;
+    margin: 0;
+    text-align: center;
+    color: #fff;
+}
+
+.recoveryPassword {
+    color: #000;
+    text-decoration: none;
+    font-weight: normal;
+}
